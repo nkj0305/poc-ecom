@@ -9,7 +9,7 @@ import DateTime from '../containers/dateTime/dateTime';
 import ReviewAndPay from '../containers/reviewAndPay/reviewAndPay';
 import Ikealogo from "../assets/IKEA-logo.png";
 import ItemList from '../containers/itemlist/itemlist';
-
+import CataloguePage from '../containers/cataloguePage/cataloguePage';
 
 import './app.css';
 export default class App extends Component {
@@ -30,6 +30,7 @@ export default class App extends Component {
                     <Route path="/checkout/delivery" component={Checkout} />
                     <Route path="/checkout/dateTime" component={DateTime} />
                     <Route path="/checkout/reviewAndPay" component={ReviewAndPay} />
+                    <Route path="/shop" component={CataloguePage} />
                     <Route exact path="/" render={() => (<Redirect to="/allitems" />)} />
                     <Route exact path="/checkout" render={() => (<Redirect to="/checkout/delivery" />)} />
                 </div>

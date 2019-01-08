@@ -1,0 +1,28 @@
+{
+    "addresses":{
+        "HD":[
+            {
+                "id":"HD1",
+                "name":"name1HD",
+                "address":" ewlnewewkmlv sadsadlksa;ldml/amflknfddlsk cksnkd/lsnc/klsdmc. mscm "
+            },
+            {
+                "id":"HD2",
+                "name":"name2HD",
+                "address":"dvmdvmdsvds; mm;lmv;lmv;lDsvmd:SVM m ;lmvl;dmv;lDmsv;d"
+            }
+        ],
+        "CP":[
+            {
+                "id":"CP1",
+                "name":"name1CP",
+                "address":"dlmf;dmvdsvldmsv mlf fl;d;fl;fdml;dvl;;d;d ;vdv"
+            },
+            {
+                "id":"CP2",
+                "name":"name2CP",
+                "address":"ds;dv;m ;fm;mv;ll;vdkd;fk;fok[pff"
+            }
+        ]
+    }
+}

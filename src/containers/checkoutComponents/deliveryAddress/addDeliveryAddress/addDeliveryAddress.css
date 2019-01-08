@@ -1,0 +1,68 @@
+.formFields{
+    border: solid 1px #cccccc;
+    height: 44px;
+    width: 100%;
+    font-size: 12px;
+    padding: 10px 15px;
+}
+
+.customLabel{
+    color: #666;
+    font-size: 12px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    margin-top: 15px;
+}
+
+.boldHeadings{
+    font-size: 13px;
+    font-weight: bold;
+    color: #222;
+    margin-top: 30px;
+}
+
+.errorField{
+    border: 1px solid red;
+}
+
+.errorText{
+    font-size: 12px;
+    color: red;
+}
+
+.addDeliveryAddressHeading{
+    color: #222;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 30px;
+    border-top: 1px solid #e6e6e6;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+@media(max-width:767px){
+    .buttonSection{
+        position: fixed;
+        margin-left: -15px;
+        margin-right: -15px;   
+        bottom: 0px; 
+        width: 100% !important;
+        z-index: 1;
+    }
+
+    .buttonSection button{
+        width: 100% !important;
+    }
+    .paymentInfo{
+        margin-left: -15px;
+        margin-right: -15px;
+        margin-bottom: 50px;
+    }
+    .paymentButton{
+        display: none;
+    }
+
+    .mobileNumber{
+        margin-bottom: 30px;
+    }
+}

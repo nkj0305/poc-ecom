@@ -1,0 +1,30 @@
+.ikeaHeader {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.ikeaHeader img {
+    height: 32px;
+    width: 95px;
+}
+
+.returnCart{
+    text-align: right;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.checkoutContent{
+    padding-top: 40px;
+}
+
+@media(max-width:767px){
+    .Text{
+        width: auto;
+        margin: 0;
+    }
+    .checkoutContent{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}

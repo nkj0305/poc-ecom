@@ -1,0 +1,23 @@
+html,body{
+    font-family: Verdana, Tahoma;
+}
+
+.ikeaHeader {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.ikeaHeader img {
+    height: 32px;
+    width: 95px;
+}
+
+.returnCart{
+    text-align: right;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.checkoutContent{
+    padding-top: 40px;
+}

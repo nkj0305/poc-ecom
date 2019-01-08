@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "name": "VÄRDERA",
+            "type": "Mug",
+            "qty": "2",
+            "price": "9",
+            "imgUrl": "https://secure.ikea.com/PIAimages/51249_PE150726_S3.jpg",
+            "color": "White",
+            "desc":"Height: 11 cm, Volume: 30 cl",
+            "articleNum":" 102.773.66"
+        },
+        {
+            "name": "LACK",
+            "type": "Wall shelf",
+            "qty": "1",
+            "price": "39",
+            "imgUrl": "https://secure.ikea.com/PIAimages/0641085_PE700249_S3.JPG",
+            "color": "Black",
+            "desc":"Length: 110 cm, Depth: 26 cm, Thickness: 5 cm",
+            "articleNum":"401.036.33"
+        }
+    ]
+}

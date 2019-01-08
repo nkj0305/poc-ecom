@@ -1,0 +1,15 @@
+.buttonSection{
+  margin-top: 50px;
+}
+
+.buttonSection button{
+    width: 240px;
+    height: 35px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 2px;
+    background-color: #0074d0;
+    border: solid 1px #002f9c;
+}

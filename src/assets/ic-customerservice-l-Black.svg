@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h88v88H0z"/>
+        <path fill="#FFF" d="M16.5 66.5h37v-45h-37z"/>
+        <path stroke="#000" d="M16.5 66.5h37v-45h-37z"/>
+        <path fill="#FFF" d="M22 26.5h26-26z"/>
+        <path stroke="#000" d="M22 26.5h26"/>
+        <path fill="#FFF" d="M22 31.5h26-26z"/>
+        <path stroke="#000" d="M22 31.5h26"/>
+        <path fill="#FFF" d="M22 36.5h10-10z"/>
+        <path stroke="#000" d="M22 36.5h10"/>
+        <path fill="#FFF" d="M68.5 58.817l-2.291 5.676a.765.765 0 0 1-1.418 0L62.5 58.817v-32.53a2.789 2.789 0 0 1 2.788-2.787h.424a2.789 2.789 0 0 1 2.788 2.788v32.529z"/>
+        <path stroke="#000" d="M68.5 58.817l-2.291 5.676a.765.765 0 0 1-1.418 0L62.5 58.817v-32.53a2.789 2.789 0 0 1 2.788-2.787h.424a2.789 2.789 0 0 1 2.788 2.788v32.529z"/>
+        <path fill="#FFF" d="M62 58.5h7"/>
+        <path stroke="#000" d="M62 58.5h7"/>
+        <path fill="#FFF" d="M61.5 29.5h9v-3h-9z"/>
+        <path stroke="#000" d="M61.5 29.5h9v-3h-9z"/>
+        <path fill="#FFF" d="M70.5 26.5v18"/>
+        <path stroke="#000" stroke-linecap="round" d="M70.5 26.5v18"/>
+        <path fill="#FFF" d="M65.5 65v2"/>
+        <path stroke="#000" d="M65.5 65v2"/>
+        <path stroke="#000" stroke-linejoin="round" stroke-width=".5" d="M30.521 60c-.851 0-.851-2-1.703-2-.85 0-.85 2-1.7 2-.852 0-.852-2-1.703-2-.854 0-.854 2-1.707 2-.854 0-.854-2-1.708-2"/>
+    </g>
+</svg>

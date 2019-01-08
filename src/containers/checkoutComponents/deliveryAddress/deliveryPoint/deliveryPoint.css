@@ -1,0 +1,59 @@
+.inlineEl{
+    display: inline-block;
+}
+
+.tabDiv{
+    font-size: 12px;
+    cursor: pointer;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.Text{
+    width: 180px;
+    margin-left: 15px;
+}
+.Text p{
+    margin-bottom: 5px;
+}
+
+.boldText{
+    font-weight: bold;
+}
+
+.imageEl {
+    padding-top: 12px;
+    vertical-align: top;
+    margin-left: 15px;
+}
+
+.radio{
+    width: 20px;
+    height: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 50%;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.activeDiv .activeRadio{
+    width: 12px;
+    height: 12px;
+    background: #0074d0;
+    border-radius: 50%;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.activeDiv{
+    border: 1px solid #0074d0;
+    border-radius: 5px;
+}
+
+@media(max-width:767px){
+    .tabDiv{
+        text-align: center;
+    }
+    .imageEl{
+      margin: 0;
+    }
+}

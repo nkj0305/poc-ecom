@@ -1,0 +1,42 @@
+.paymentInfo{
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.paymentHeading{
+    text-align: center;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.rightAl{
+  text-align: right;
+}
+
+.payEL{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.payTotal{
+    background: #f7f7f9;
+    padding-top: 15px;
+    padding-bottom: 16px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.paymentButton button{
+    height: 35px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 2px;
+    background-color: #0074d0;
+    border: solid 0.7px #002f9c;
+    width: 100%;
+    margin-top: 15px;
+}

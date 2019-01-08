@@ -1,0 +1,32 @@
+.borders{
+    border-top: 1px solid gainsboro;
+}
+
+.linkdirects{
+    font-size: 12px;
+    text-align: center;
+}
+
+.linkImage{
+    height: 10px;
+    border: 1px solid gainsboro;
+    width: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: -5px;
+    background: #fff;
+}
+
+.activeLink .linkImage{
+    background: #0074d0;
+    border: 1px solid #0074d0;
+}
+
+.activeLink .linkText{
+    color:#0074d0;
+}
+.linkText{
+    font-weight: bold;
+    color: #999;
+}

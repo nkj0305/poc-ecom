@@ -1,0 +1,25 @@
+.Margin5TopBottom {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.paddingBottom10 {
+    margin-bottom: 10px;
+}
+.pad-25 {
+    padding: 25px;
+}
+.text-center {
+    text-align: center;
+}
+.MarginLeft10 {
+    margin-left: 5px;
+}
+
+.col-md-3 {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.col-md-8 {
+    margin-right: 0px !important;
+    padding: 0px !important;
+}

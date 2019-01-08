@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <g fill="#4E4E4E" fill-rule="evenodd">
+        <ellipse cx="29.121" cy="3.333" rx="3.297" ry="3.333"/>
+        <ellipse cx="12.637" cy="6.667" rx="3.297" ry="3.333"/>
+        <ellipse cx="3.297" cy="20.556" rx="3.297" ry="3.333"/>
+        <ellipse cx="6.593" cy="37.778" rx="3.297" ry="3.333"/>
+        <ellipse cx="20.879" cy="46.667" rx="3.297" ry="3.333"/>
+        <ellipse cx="37.363" cy="43.333" rx="3.297" ry="3.333"/>
+        <ellipse cx="46.374" cy="29.049" rx="3.297" ry="3.333"/>
+        <ellipse cx="43.077" cy="12.383" rx="3.297" ry="3.333"/>
+    </g>
+</svg>

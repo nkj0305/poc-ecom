@@ -1,0 +1,24 @@
+.mainHeading{
+    font-weight: bold;
+    color: #222222;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.contactName{
+    font-size: 12px;
+    font-weight: bold;
+    color: #222222;
+    margin-bottom: 5px;
+}
+
+.contactAddress{
+    font-size: 12px;
+}
+
+@media(max-width:767px){
+    .showAddressSection{
+        margin-bottom: 30px;
+    }
+}
+

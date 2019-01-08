@@ -1,0 +1,18 @@
+.productListSection{
+  margin-top: 60px;
+}
+
+.productsHeading{
+    font-size: 16px;
+    color: #222;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    
+}
+
+@media(max-width:767px){
+    .productListSection{
+        margin-top: 0px;
+    }
+}

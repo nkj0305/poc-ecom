@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>DCA5159E-C17D-4A44-B9BF-6DD6FA301D74</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_customerservice_l_empty">
+            <g id="ic_customerservice_l">
+                <polygon id="Rectangle" points="0 0 88 0 88 88 0 88"></polygon>
+                <g id="Group" transform="translate(16.000000, 21.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" points="0.5 45.5 37.5 45.5 37.5 0.5 0.5 0.5"></polygon>
+                    <polygon id="Stroke-2" stroke="#CCCCCC" points="0.5 45.5 37.5 45.5 37.5 0.5 0.5 0.5"></polygon>
+                    <path d="M6.0003,5.5 L32.0003,5.5 L6.0003,5.5 Z" id="Fill-4" fill="#FFFFFF"></path>
+                    <path d="M6,5.5 L32,5.5" id="Stroke-5" stroke="#CCCCCC"></path>
+                    <path d="M6.0003,10.5004 L32.0003,10.5004 L6.0003,10.5004 Z" id="Fill-6" fill="#FFFFFF"></path>
+                    <path d="M6,10.5 L32,10.5" id="Stroke-7" stroke="#CCCCCC"></path>
+                    <path d="M6.0003,15.4999 L16.0003,15.4999 L6.0003,15.4999 Z" id="Fill-8" fill="#FFFFFF"></path>
+                    <path d="M6,15.5 L16,15.5" id="Stroke-9" stroke="#CCCCCC"></path>
+                    <path d="M52.5,37.8169 L50.209,43.4929 C49.952,44.1309 49.048,44.1309 48.791,43.4929 L46.5,37.8169 L46.5,5.2879 C46.5,3.7489 47.749,2.4999 49.288,2.4999 L49.712,2.4999 C51.251,2.4999 52.5,3.7489 52.5,5.2879 L52.5,37.8169 Z" id="Fill-12" fill="#FFFFFF"></path>
+                    <path d="M52.5,37.8169 L50.209,43.4929 C49.952,44.1309 49.048,44.1309 48.791,43.4929 L46.5,37.8169 L46.5,5.2879 C46.5,3.7489 47.749,2.4999 49.288,2.4999 L49.712,2.4999 C51.251,2.4999 52.5,3.7489 52.5,5.2879 L52.5,37.8169 Z" id="Stroke-14" stroke="#CCCCCC"></path>
+                    <path d="M46,37.5 L53,37.5" id="Fill-16" fill="#FFFFFF"></path>
+                    <path d="M46,37.5 L53,37.5" id="Stroke-18" stroke="#CCCCCC"></path>
+                    <polygon id="Fill-20" fill="#FFFFFF" points="45.5 8.5 54.5 8.5 54.5 5.5 45.5 5.5"></polygon>
+                    <polygon id="Stroke-22" stroke="#CCCCCC" points="45.5 8.5 54.5 8.5 54.5 5.5 45.5 5.5"></polygon>
+                    <path d="M54.5,5.5 L54.5,23.5" id="Fill-23" fill="#FFFFFF"></path>
+                    <path d="M54.5,5.5 L54.5,23.5" id="Stroke-24" stroke="#CCCCCC" stroke-linecap="round"></path>
+                    <path d="M49.5,44 L49.5,46" id="Fill-26" fill="#FFFFFF"></path>
+                    <path d="M49.5,44 L49.5,46" id="Stroke-27" stroke="#CCCCCC"></path>
+                    <path d="M14.521,39 C13.67,39 13.67,37 12.818,37 C11.968,37 11.968,39 11.118,39 C10.266,39 10.266,37 9.415,37 C8.561,37 8.561,39 7.708,39 C6.854,39 6.854,37 6,37" id="Stroke-40" stroke="#CCCCCC" stroke-width="0.5" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
